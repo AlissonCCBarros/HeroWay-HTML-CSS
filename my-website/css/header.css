@@ -1,0 +1,27 @@
+.main-header {
+  background-color: rgb(44, 62, 80);
+  color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 10%;
+  text-transform: uppercase;
+}
+
+.main-header .title, .main-header .navigator {
+  display: inline;
+}
+
+/* .main-header .navigator {
+  display: inline;
+}
+
+.inline {
+  display: inline;
+} */
+
+.main-header a {
+  color: white;
+  text-decoration: none;
+}

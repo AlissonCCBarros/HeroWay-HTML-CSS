@@ -1,0 +1,24 @@
+.banner {
+  width: 100%;
+  height: 400px;
+  background-color: #D40A44;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.avatar-img {
+  width: 140px;
+  height: 140px;
+}
+
+.b-title {
+  text-transform: uppercase;
+  font-size: 25px;
+}
+
+.star {
+  flex-direction: row;
+}
